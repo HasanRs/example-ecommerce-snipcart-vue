@@ -36,7 +36,7 @@ export default {
         "data-autopop": "false",
         // Change me. Read more at http://snipcart.com
         "data-api-key":
-          "ODRkNmJhZDktOTk5YS00Y2Y1LTk5Y2ItMTkzNTlkZTYxNzhmNjM2NTk1NTI2OTgyMTc1MTUy"
+          "ST_NDU0NTE1YzAtZjI0Zi00Mjg2LThjMTAtOTczMDE4ZDUwMGM4NjM3Mzk4NjUyNTM1OTg2OTQ3"
       }
     ]
   },
